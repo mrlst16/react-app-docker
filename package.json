@@ -1,5 +1,6 @@
 {
   "name": "react-docker-app",
+  "start": "set PORT=82 && ng serve --ec=true",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
